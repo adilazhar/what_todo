@@ -41,10 +41,6 @@ Switch between light and dark themes to match your preference and reduce eye str
 ![Screenshot 2](link-to-screenshot2)
 ![Screenshot 3](link-to-screenshot3)
 
-## 📋 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgements
 
 - Thanks to all contributors and users for your support!
