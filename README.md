@@ -33,7 +33,7 @@ Press and hold the **Drag Handle Icon** on the left side of the todo item, then 
 
 ## 🌗 Light and Dark Mode
 
-Switch between light and dark themes to match your preference and reduce eye strain. 🌞🌜
+Switch between light and dark themes to match your preference and reduce eye strain. 🌞🌝
 
 ## 📷 Screenshots
 
