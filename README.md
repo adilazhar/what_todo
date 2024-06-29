@@ -1,4 +1,4 @@
-# 📝 What To Do : Minimalistic To-Do App
+# 📝 What To Do: Minimalistic To-Do App
 
 Welcome to the Minimalistic To-Do App! This app is designed for simplicity and ease of use, helping you manage your tasks effortlessly.
 
@@ -37,9 +37,11 @@ Switch between light and dark themes to match your preference and reduce eye str
 
 ## 📷 Screenshots
 
-![Screenshot 1](https://github.com/adilazhar/what_todo/blob/main/light_mode.png)
-![Screenshot 2](https://github.com/adilazhar/what_todo/blob/main/night_mode.png)
-![Screenshot 3](https://github.com/adilazhar/what_todo/blob/main/add_todo.png)
+<p align="center">
+    <img src="https://github.com/adilazhar/what_todo/blob/main/light_mode.png" alt="Light Mode" width="200" />
+    <img src="https://github.com/adilazhar/what_todo/blob/main/night_mode.png" alt="Dark Mode" width="200" />
+    <img src="https://github.com/adilazhar/what_todo/blob/main/add_todo.png" alt="Add Todo" width="200" />
+</p>
 
 ## 🙏 Acknowledgements
 
